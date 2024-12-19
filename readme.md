@@ -1,6 +1,6 @@
 # Szymon Lurka - Front End Developer
 
- I am Szymek, Front End Developer with almost 4 years of experience. 
+ I am Szymek, Front End Developer with almost 5 years of experience. 
  
  I have experience with `React`, `Angular`, and am currently working in `Vue`. I love front-end technologies, although I am learning backend after hours.
 
